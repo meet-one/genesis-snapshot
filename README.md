@@ -1,1 +1,1 @@
-# genesis-snapshot
+EOS mainnet launch snapshot !
